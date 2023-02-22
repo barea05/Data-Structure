@@ -2,8 +2,6 @@
 #list
 #collections.deque --> use queue and stack method
 #queue.FifoQueue
-
-
 stock_price = []
 stock_price.insert(0, 123.123)
 stock_price.insert(0, 123.123)
